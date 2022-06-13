@@ -1,0 +1,212 @@
+jailbreak - https://rekonise.com/jailbreak-script-s2ago
+dahood - loadstring(game:HttpGet("https://raw.githubusercontent.com/Impulseonyoutube/scripts/main/dahood%22))()
+http://pastebin.com/raw/DZVV9AGG - epic sword
+http://pastebin.com/raw/HLPDS650 - raping menu (this will get you on voidacity banned)
+http://pastebin.com/raw/TRsNc7uC - revenger claws
+http://pastebin.com/raw/9nu7Zeh8 - yellow version of epic sword
+http://pastebin.com/raw/X2n20xqM - dev uzi
+http://pastebin.com/raw/qqgpugGF - Ro-Exploit 6.0 (sometimes work)
+http://pastebin.com/raw/mdXgksz4 - Spartan Lazer from Halo 4
+http://pastebin.com/raw/6W2HPmLL - Dark Titan
+http://pastebin.com/raw/RKY5fTXh - Lua Hammer
+http://pastebin.com/raw/w09qq3r1 - V3rmillion Tabs
+http://pastebin.com/raw/ccuNrFDp - Kame Hame Ha from dragonball (not working)
+http://pastebin.com/raw/d56eg7r9 - 666 (satanic thing that scares us)
+http://pastebin.com/raw/UEsminB9 - Oblivion
+http://pastebin.com/raw/fXu1MEcK - bomb vest
+http://pastebin.com/raw/L4JWMx2N - blast blade
+http://pastebin.com/raw/KSYta6ys - Snowman Robot (Overpower AF)
+http://pastebin.com/raw/50xEjcnY - Warhammer 3000k
+http://pastebin.com/raw/UEsminB9 - GodAlike Sword
+http://pastebin.com/raw/Dy9Ekwc6 - OP Sniper
+http://pastebin.com/raw/KJ5nqeVF - Death Red Scythe
+http://pastebin.com/raw/27jL5rer - Halo 4 Mantis
+http://pastebin.com/raw/ecKYmh1Z - OP Armor with Light Pistols (Maybe Overwatch character supposed to have it)
+http://pastebin.com/raw/ZMsKxBG7 - Shinobi Armor
+http://pastebin.com/raw/L0GbxNfL - OP Wings
+http://pastebin.com/raw/zzd8nJFN - R-Orb Shielder
+http://pastebin.com/raw/SiSYpbsz - OP AF Sword Armoury
+http://pastebin.com/raw/B8uwgZCZ - Death Sword
+http://pastebin.com/raw/zjEfwVPb - Red Claws
+https://hastebin.com/raw/vexahomito - ROBOT AF
+http://pastebin.com/raw/9DDWRBS2 - Zeus Staff (Nothing to mention about this one)
+http://pastebin.com/raw/PzX9Ecwf - Katanas everywheeere
+http://pastebin.com/raw/ZHgkABN8 - Red ROBOT AF
+http://pastebin.com/raw/TCKpDvZF - The Red Assasin Powered with madness
+http://pastebin.com/raw/ugJaWref - Claws are Greeny
+https://hastebin.com/raw/okicefiluk - something raer
+https://hastebin.com/raw/xabasenele - Hitler's Speech
+http://pastebin.com/raw/NJ7XXNH6 - hover chair
+https://hastebin.com/raw/licuzuwoqu - god of darkness
+https://hastebin.com/raw/ipidaromig - pistols of crystal power
+https://hastebin.com/raw/uruharocoq - Sniper Rifle
+http://pastebin.com/raw/CzsnLDVK - dark magic magician
+http://pastebin.com/raw/LCWHHvdS - CFrame Scythe
+https://hastebin.com/raw/kisecumima - Knight of Demonism
+https://hastebin.com/raw/iwofemunax - flying katana lord
+http://pastebin.com/raw/2wa4RX4n - 2 Player Robot
+https://hastebin.com/raw/odojofotun - Light Lord of Katanas
+http://pastebin.com/raw/zWy20LuD - Allah AKBAR
+http://pastebin.com/raw/YC61sxH1 - Gun&Fight
+http://pastebin.com/raw/2Wpc47BB - Lord of Redness
+-- Infinite Yield
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+
+-- Chat bypasser
+loadstring(game:HttpGet("https://the-shed.dev/scripts/sbp.lua", true))()
+
+-- Chat spy
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dehoisted/Chat-Spy/main/source/main.lua", true))()
+
+-- Dark Hub
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
+
+-- Owl Hub*
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+-- Realistic Graphics
+getgenv().mode = "Autumn" -- change between summer and autumn
+loadstring(game:HttpGet("https://pastebin.com/raw/Ba5A2mXj", true))()
+
+-- Solaris Hub
+loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()
+
+-- Domain Hub X
+loadstring(game:HttpGet('https://shlex.dev/release/domainx/latest.lua',true))()
+--key is Domain2021
+
+-- VG hub
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+
+-- Universal aimlock
+loadstring(game:HttpGet('https://pastebin.com/raw/J6EGUjsL'))()
+
+-- Anti Ragdoll
+loadstring(game:HttpGet('https://pastebin.com/raw/hZCGP84y'))()
+
+-- Sing any song in chat (instructions in pastebin)
+-- https://pastebin.com/raw/PFUBUDMy
+
+-- Section 2: Game specific
+
+-- Prison life commands
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/PrisonLife'),true))()
+
+-- Build a boat for treasure auto-farm
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/urmomjklol69/GoldFarmBabft/main/GoldFarm.lua'),true))()
+
+-- Mad City auto exp and money farm
+loadstring(game:HttpGet("https://jack1214060.xyz/jayhub",true))()
+
+-- The wild west gui
+loadstring(game:HttpGet("https://raw.githubusercontent.com/saucekid/scripts/main/yeehaw.lua"))()
+-- Big paintball gui
+loadstring(game:HttpGet("https://pastebin.com/raw/PuaaGKsT"))()
+
+-- My Restaurant auto farm
+loadstring(game:HttpGet("http://void-scripts.com/Scripts/myRest.lua"))()
+
+-- Rbreach GUI
+loadstring(game:HttpGet("https://pastebin.com/raw/qFz9sTmW"))()
+
+-- Club DJ Gui
+loadstring(game:HttpGet("https://paste.gg/p/anonymous/c29197fb39344ffd8d0133d37f7793d4/files/b8a3da1cae83403ebe2b221900baf39a/raw"))()
+
+-- Jailbreak auto rob
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alohabeach/Main/master/Scripts/JailbreakAutoRob.lua"))()
+
+-- Jailbreak GUI (Not working as of 9/19/21, I will be looking for another good jailbreak GUI)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/opBandwidth/Magma-Core/main/Jailbreak/Main.lua"))()
+
+-- Murder Mystery 2 GUI
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ethanoj1/EclipseMM2/master/Script", true))()
+
+-- BedWars GUI
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+
+-- Pet Sim X Free gamepasses
+loadstring(game:HttpGet("https://pastebin.com/raw/YMtJ1QTp", true))()
+
+-- Pet Sim X coin + gems auto farm
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua'))();
+
+-- Pet Sim x auto rainbow + good auto farm
+loadstring(game:HttpGet("https://pastebin.com/raw/AyfXngSK"))()
+
+-- RoBeats auto player
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notclosure/Robeats-autoplayer/master/Code.lua"))()
+
+-- Da Hood auto farm
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rapnz/scripts/master/DaHoodFarm.lua"))()
+-- Generic Roleplay Game GUI (auto farm)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Boardbot/grg/main/Boardbot's%20GRG%20GUI%20v2.lua"))()
+
+-- Get To The Top FE bomb all (kill all)
+loadstring(game:HttpGet("https://pastebin.com/raw/QzHQ4SDn"))()
+
+-- Get to the top auto win
+loadstring(game:HttpGet("https://pastebin.com/raw/zNbcVR4D"))()
+
+-- Squid Game Automatic Registration GUI
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thatchrisie/squidGameScript/main/README.md",true))()
+
+-- Bloxburg AutoFarm
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LegoHacks/Bloxburg/master/Main.lua",true))()
+
+-- Frappe Trolling GUI
+loadstring(game:HttpGet("https://paste.ee/r/dg377", true))()
+
+-- Project Skirmish Gun Mod
+loadstring(game:HttpGet("https://pastebin.com/raw/HL29kX7B", true))()
+
+
+-- Section 3: FE scripts + Animations
+
+-- Working FE walk on walls!
+loadstring(game:HttpGet("https://pastebin.com/raw/5T7KsEWy", true))()
+
+-- Achromatic Fedora - Not netless
+loadstring(game:HttpGet("https://pastebin.com/raw/3pugTEdR"))()
+-- Nullware Hub V2
+loadstring(game:HttpGetAsync("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/dabc2500988785fbec1ce7c7aaee105d/raw/hVQJXfF4sR6yqSfJ"))()
+
+-- Pendulum Hub, extremely good reanimation
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tescalus/Pendulum-Hubs-Source/main/Pendulum%20Hub%20V4.lua"))()
+
+-- Selexity Netless Reanimation
+-- https://paste.ee/p/OcrMA (Choose Reanimation method here)
+
+-- FE Backflip/Frontflip (Keybinds are Z, X, and C)
+loadstring(game:HttpGet("https://pastebin.com/raw/crPcd0vq"))()
+
+-- R15 animations GUI
+loadstring(game:HttpGet("https://pastebin.com/raw/NTq8iuJQ"))()
+
+-- R6 Animations GUI
+loadstring(game:HttpGet("https://pastebin.com/raw/RmD3qNp7", true))()
+
+-- Achromatic Moonic Edit (Full list of keybinds can be found in the pastebin)
+loadstring(game:HttpGet("https://pastebin.com/raw/gmx8LHDR"))()
+
+-- FE tall/big person, check specific instructions in the link
+-- https://controlc.com/6f744023
+
+-- FE bighead, max out head scale and use r15
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sysGhost-aka-BiKode/BigHeadV2/main/BigHeadV2-r15", true))()
+
+-- Gale Fighter for prison life
+loadstring(game:HttpGet("https://pastebin.com/raw/4DiwVuGY", true))()
+
+-- FE sniper
+loadstring(game:HttpGet("https://pastebin.com/raw/a7hN5yYQ", true))()
+
+-- Another acrhomatic edit
+loadstring(game:HttpGet("https://pastebin.com/raw/kGxFz1nn", true))()
+
+-- Swords FE netless V6 (Made by 1920swordman, massive props to this guy)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SwordSimIsGood/Sword-SG/main/Swords%20FE%20Starmd'))()
+
+-- Fixed modes Swords FE netless v6 (Edited by me, fixed 2 modes and sorta fixed voice lines)
+-- go to https://pastebin.com/9vVS1gse
+
+-- Achromatix V5 netless
+loadstring(game:HttpGet('https://pastebin.com/raw/d8zF5QHN'))()
